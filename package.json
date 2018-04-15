@@ -1,0 +1,20 @@
+{
+  "name": "city-chain",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-serve ./src",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CityChainFoundation/website.git"
+  },
+  "author": "City Chain Foundation",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CityChainFoundation/website/issues"
+  },
+  "homepage": "https://city-chain.org"
+}
