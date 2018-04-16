@@ -361,6 +361,41 @@ h2 {
     max-width: 1000px;
 }
 
+.break {
+    clear: both;
+}
+
+.split-left {
+    width: 50%;
+    margin: 0;
+    padding: 0;
+    padding-right: 10px;
+    float: left;
+    box-sizing: border-box;
+}
+
+.split-right {
+    width: 50%;
+    margin: 0;
+    padding: 0;
+    padding-left: 10px;
+    float: right;
+    box-sizing: border-box;
+}
+
+.partner-logo {
+    width: 100%;
+}
+
+/* .partner-logo
+{
+    float: right;
+    margin-left: 40px;
+    margin-bottom: 20px;
+    max-width: 300px;
+    width: 80%;
+} */
+
 .header {
     margin: 0 auto;
     padding-left: 50px;
@@ -852,6 +887,21 @@ h2 {
     }
     .feature div {
         font-size: 1.2rem;
+    }
+    .split-left {
+        float: none;
+        width: auto;
+        padding: 0;
+    }
+    .split-right {
+        float: none;
+        width: auto;
+        margin-bottom: 20px;
+        padding: 0;
+        text-align: center;
+    }
+    .partner-logo {
+        width: 80%;
     }
 }
 
