@@ -36,7 +36,7 @@ var donationsChartElement = document.getElementById("donationsChart").getContext
 var donationsChart = new Chart(donationsChartElement, {
     type: 'doughnut',
     data: {
-        labels: ["Libertania: Startup Fund", "Incubator Program", "City Chain Foundation"],
+        labels: ["Private City Fund", "Incubator Program", "City Chain Foundation"],
         datasets: [{
             label: "Donations Allocation",
             backgroundColor: ['#E0E01D', '#252422', '#DFAB3C'],
