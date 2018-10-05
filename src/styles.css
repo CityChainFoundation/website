@@ -857,6 +857,10 @@ h2 {
     color: gray;
 }
 
+.media-downloads {
+    text-align: center;
+}
+
 .downloads {
     text-align: center;
 }
@@ -864,6 +868,7 @@ h2 {
 .downloads a {
     display: inline-block;
     margin-bottom: 40px;
+    color: rgb(247, 247, 247);
 }
 
 .downloads img {
