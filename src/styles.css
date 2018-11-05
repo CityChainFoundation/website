@@ -465,6 +465,15 @@ h2 {
     margin: 0;
 }
 
+.accent-dark a {
+    color: white;
+}
+
+
+.accent-dark a:hover {
+    color: silver;
+}
+
 .more {
     background-image: url('/images/down.svg');
     background-size: 60px 60px;
