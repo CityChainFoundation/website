@@ -627,6 +627,12 @@ h2 {
     position: relative;
 }
 
+.higlight-download
+{
+    padding: 10px 16px;
+    margin: 4px 4px;
+}
+
 .action-button {
     margin-left: 40px !important;
 }
