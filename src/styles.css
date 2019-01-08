@@ -899,6 +899,12 @@ h2 {
     font-weight: 600;
 }
 
+.exchange-logo
+{
+    max-width: 200px;
+    margin-right: 30px;
+}
+
 /* Make the menu items take up a little more space on smaller screens. */
 
 @media screen and (max-width: 920px) {
