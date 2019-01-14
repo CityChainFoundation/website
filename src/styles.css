@@ -905,6 +905,25 @@ h2 {
     margin-right: 30px;
 }
 
+.spaced-links > a
+{
+    margin-right: 20px;
+}
+
+.tools-links
+{
+    text-align: center;
+}
+
+.tools-links > a {
+    font-size: 1.2em;
+}
+
+.pos-icon
+{
+    height: 128px;
+}
+
 /* Make the menu items take up a little more space on smaller screens. */
 
 @media screen and (max-width: 920px) {
