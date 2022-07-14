@@ -924,6 +924,10 @@ h2 {
     height: 128px;
 }
 
+.green {
+    color: rgb(26, 173, 26);
+}
+
 /* Make the menu items take up a little more space on smaller screens. */
 
 @media screen and (max-width: 920px) {
